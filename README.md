@@ -1,2 +1,3 @@
 # EnNote_app
-App for sending excripted notes
+App for sending encrypted notes
+
